@@ -1,0 +1,35 @@
+* { /* Removes default styling */
+padding: 0;
+margin: 0;
+}
+
+body {
+background-color: #daf0ff;
+margin-top: 50px;
+}
+
+#googleHome p {
+font-size: 3rem;
+display: flex;   /* Uses flexbox to style it in a specific grid like order */
+justify-content: center;
+font-size: 150px;
+}
+
+input {
+width: 200px;
+height: 30px;
+font-family: "Courier New", Courier, monospace;
+font-size: 23.5px;
+
+}
+
+#box{
+position: absolute;
+margin-top: 20px;
+left:42%;
+}
+
+#button {
+font-family: 'Courier New', Courier, monospace;
+font-size: 23.5px;
+}
